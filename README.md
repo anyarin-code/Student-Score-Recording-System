@@ -35,4 +35,4 @@
 6. เลือก 'y' เพื่อเพิ่มวิชา หรือ 'n' เพื่อจบโปรแกรม
 
 ## ตัวอย่างการทำงาน
-![Screenshot](Skreenshot.png)
+![Screenshot](Screenshot.png)
